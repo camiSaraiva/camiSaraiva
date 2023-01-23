@@ -1,4 +1,4 @@
-![Ágar Camila Saraiva](https://user-images.githubusercontent.com/114233967/214163407-7ebdb929-f72e-4a59-9b2e-836c512aeecc.png)
+![Ágar Camila Saraiva (1)](https://user-images.githubusercontent.com/114233967/214168644-8ae1e436-f360-4154-9867-07e4e40fd3fe.png)
 
 
 
