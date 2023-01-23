@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camisaraiva&show_icons=true&locale=en&layout=compact" alt="camisaraiva" /></p>
 
+![Codewars](https://github.r2v.ch/codewars?user=cami_saraiva&stroke=%236F36BC)
