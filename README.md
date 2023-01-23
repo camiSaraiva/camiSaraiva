@@ -8,10 +8,12 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/camiSaraiva/Portfolio_Website)
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFT6TWyFiU/xI8_P6rxwrt5CZNdoKSmug/view?utm_content=DAFT6TWyFiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFT6TWyFiU/xI8_P6rxwrt5CZNdoKSmug/view?utm_content=DAFT6TWyFiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [My CV](https://www.canva.com/design/DAFT6TWyFiU/xI8_P6rxwrt5CZNdoKSmug/view?utm_content=DAFT6TWyFiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun facts: <p>I have jumped off one of the highest Bungee Jump in Latin America; </p>
-<p>I'm a published autor;</p> <p>I've visited 20+ countries.</p>
+- ⚡ Fun facts: 
+<p align="left">I have jumped off one of the highest Bungee Jump in Latin America; </p>
+<p align="left">I'm a published autor;</p> 
+<p align="left">I've visited 20+ countries.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
