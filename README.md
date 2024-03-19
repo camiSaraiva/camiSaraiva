@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camisaraiva&label=Profile%20views&color=0e75b6&style=flat" alt="camisaraiva" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/camiSaraiva/Portfolio_Website)
-
 - 📄 Know about my experiences [My CV](https://www.canva.com/design/DAFT6TWyFiU/xI8_P6rxwrt5CZNdoKSmug/view?utm_content=DAFT6TWyFiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun facts: 
