@@ -1,6 +1,3 @@
-![Ágar Camila Saraiva (1)](https://user-images.githubusercontent.com/114233967/214168644-8ae1e436-f360-4154-9867-07e4e40fd3fe.png)
-
-
 
 <h1 align="center">Hi there 👋, dear fellow developer</h1>
 
